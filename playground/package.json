@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "0.8.5",
-    "@testing-library/vue": "7.0.0",
+    "@testing-library/vue": "8.0.0",
     "happy-dom": "12.1.2",
     "jsdom": "22.1.0",
     "nuxt": "3.7.4",
